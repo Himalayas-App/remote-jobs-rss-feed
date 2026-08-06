@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:himalayasJobs="https://himalayas.app/ns/jobs" version="2.0">
+    <channel>
+        <title><![CDATA[Remote jobs from Himalayas]]></title>
+        <description><![CDATA[Discover the best remote and work from home jobs on Himalayas at top remote companies.]]></description>
+        <link>https://himalayas.app/jobs</link>
+        <image>
+            <url>https://cdn-images.himalayas.app/og_images/default-open-graph-image.jpg</url>
+            <title>Remote jobs from Himalayas</title>
+            <link>https://himalayas.app/jobs</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 06 Aug 2026 02:38:57 GMT</lastBuildDate>
+        <atom:link href="https://himalayas.app/jobs/rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 06 Aug 2026 02:38:22 GMT</pubDate>
+        <copyright><![CDATA[2026 Himalayas Remote Jobs Pty Ltd]]></copyright>
+        <language><![CDATA[en]]></language>
+        <ttl>1440</ttl>
+        <himalayasJobs:lastBuildDate>Thu, 06 Aug 2026 02:38:22 GMT</himalayasJobs:lastBuildDate>
+        <item>
+            <title><![CDATA[Associate Account Manager]]></title>
+            <description><![CDATA[POSITION SUMMARY: The Associate Account Manager is responsible for proactively maintaining and retaining relationships with existing customers for permanent commercial and industrial waste services in an assigned territory.]]></description>
+            <link>https://himalayas.app/companies/republic-services/jobs/associate-account-manager-5785942321</link>
+            <guid isPermaLink="true">https://himalayas.app/companies/republic-services/jobs/associate-account-manager-5785942321</guid>
+            <category><![CDATA[Account-Management]]></category>
+            <category><![CDATA[Customer-Retention]]></category>
+            <category><![CDATA[Sales]]></category>
+            <category><![CDATA[Business-Development]]></category>
+            <pubDate>Thu, 06 Aug 2026 02:38:22 GMT</pubDate>
+            <media:content url="https://cdn-images.himalayas.app/urcvz1phv18nbinmyf6lam1sncri" medium="image">
+            </media:content>
+            <himalayasJobs:companyName>Republic Services</himalayasJobs:companyName>
+            <himalayasJobs:companyLogo>https://cdn-images.himalayas.app/urcvz1phv18nbinmyf6lam1sncri</himalayasJobs:companyLogo>
+            <himalayasJobs:locationRestriction>United States</himalayasJobs:locationRestriction>
+            <himalayasJobs:timezoneRestriction>-10</himalayasJobs:timezoneRestriction>
+            <himalayasJobs:timezoneRestriction>-9</himalayasJobs:timezoneRestriction>
+            <himalayasJobs:timezoneRestriction>-8</himalayasJobs:timezoneRestriction>
+            <himalayasJobs:timezoneRestriction>-7</himalayasJobs:timezoneRestriction>
+            <content:encoded><![CDATA[<p>Full job description HTML, truncated in this sample. The live feed contains the complete description.</p>]]></content:encoded>
+            <himalayasJobs:expiryDate>Mon, 05 Oct 2026 02:38:21 GMT</himalayasJobs:expiryDate>
+            <guid>https://himalayas.app/companies/republic-services/jobs/associate-account-manager-5785942321</guid>
+        </item>
+        <item>
+            <title><![CDATA[Remote Inbound Sales Specialist (Edmonton, AB, CA)]]></title>
+            <description><![CDATA[Req ID: 384709 With people at the heart of our success, NTT DATA is committed to attracting and growing the best talent and providing an environment where everyone feels they can belong and their contribution matters.]]></description>
+            <link>https://himalayas.app/companies/nttdata/jobs/remote-inbound-sales-specialist-edmonton-ab-ca</link>
+            <guid isPermaLink="true">https://himalayas.app/companies/nttdata/jobs/remote-inbound-sales-specialist-edmonton-ab-ca</guid>
+            <category><![CDATA[Technical-Sales-Specialist]]></category>
+            <category><![CDATA[Inbound-Sales]]></category>
+            <category><![CDATA[Telecommunications-Sales]]></category>
+            <category><![CDATA[B2C-Sales]]></category>
+            <pubDate>Thu, 06 Aug 2026 02:35:19 GMT</pubDate>
+            <media:content url="https://cdn-images.himalayas.app/to0griyuq0frod5n5b7505ono0z4" medium="image">
+            </media:content>
+            <himalayasJobs:companyName>NTT DATA</himalayasJobs:companyName>
+            <himalayasJobs:companyLogo>https://cdn-images.himalayas.app/to0griyuq0frod5n5b7505ono0z4</himalayasJobs:companyLogo>
+            <himalayasJobs:locationRestriction>Canada</himalayasJobs:locationRestriction>
+            <himalayasJobs:timezoneRestriction>-8</himalayasJobs:timezoneRestriction>
+            <himalayasJobs:timezoneRestriction>-7</himalayasJobs:timezoneRestriction>
+            <himalayasJobs:timezoneRestriction>-6</himalayasJobs:timezoneRestriction>
+            <himalayasJobs:timezoneRestriction>-5</himalayasJobs:timezoneRestriction>
+            <content:encoded><![CDATA[<p>Full job description HTML, truncated in this sample. The live feed contains the complete description.</p>]]></content:encoded>
+            <himalayasJobs:expiryDate>Mon, 05 Oct 2026 02:35:19 GMT</himalayasJobs:expiryDate>
+            <guid>https://himalayas.app/companies/nttdata/jobs/remote-inbound-sales-specialist-edmonton-ab-ca</guid>
+        </item>
+    </channel>
+</rss>
